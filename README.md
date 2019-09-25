@@ -1,1 +1,2 @@
-# StoreProject
+# StoreProject Tim Lee
+CMMI Class
