@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .mine
 <<<<<<< .mine
 # StoreProject
@@ -17,6 +18,9 @@ taki 到此一遊
 =======
 >>>>>>> 2d2a8f8d284e18bd9407a6f02a7fa5e4b42ba4eb
 <<<<<<< HEAD
+=======
+# StoreProject:尷尬了
+>>>>>>> 88cd2134f2feba6979b320803f241d438899cc19
 # StoreProject
 
 HAHAHAHAHAHA
