@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# StoreProject:Àª§¼¤F
 # StoreProject
 
 HAHAHAHAHAHA
