@@ -12,7 +12,7 @@ public class SQLExample {
     private static final String DB_CONNECTION = "jdbc:h2:mem:secure;DB_CLOSE_DELAY=-1";
     private static final String DB_USER = "";
     private static final String DB_PASSWORD = "";
-
+    
     private static final String TEST_USER = "HelloSecure";
     private static final String TEST_PASS = "1234";
     
@@ -35,6 +35,7 @@ public class SQLExample {
     private void addUser() throws ClassNotFoundException, SQLException {
         Connection conn = getDBConnection();
         Statement stmt = conn.createStatement();
+        //need to revise the code for SQL Injection flaw
         stmt.execute("INSERT INTO USER(userName, password) VALUES ('"+TEST_USER+"', '"+TEST_PASS+"')");        
         stmt.close();
         conn.commit();
